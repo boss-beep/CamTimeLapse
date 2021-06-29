@@ -9,7 +9,7 @@ Its pretty much a big hack of webcam sample code I found on different sites.
 - Work in Windows XP (sp2) and Vista.
 - Coded in C#
 
-Click to get Executible: <a href="https://github.com/boss-beep/WCamTimeLapse/blob/Matrix/WCamTimelapse.exe">
+Click to get Executible: <a href="https://github.com/boss-beep/WCamTimeLapse/raw/Matrix/WCamTimelapse.exe">
   <button>Download</button>
 </a>  
 ![b7e201c6-6858-42ef-82d0-82fce063307c](https://user-images.githubusercontent.com/74606519/123809520-f7244780-d8f1-11eb-8403-5cc429cf2d7e.jpg)
