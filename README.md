@@ -21,3 +21,5 @@ This program will not make the video file for you, it will only taken the images
 Limitations :
 • The program is set to take pictures in 640x480, but it may vary, it depends on your webcam driver.
 • I don't know how many webcams are supported, the two webcams I have, work, but I don't know if yours will.
+
+Source code included.
