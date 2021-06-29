@@ -1,0 +1,5 @@
+C:\Users\ShoXDK\Desktop\New folder\WebCamLib\bin\Debug\WebCamLib.dll
+C:\Users\ShoXDK\Desktop\New folder\WebCamLib\bin\Debug\WebCamLib.pdb
+C:\Users\ShoXDK\Desktop\New folder\WebCamLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ShoXDK\Desktop\New folder\WebCamLib\obj\Debug\WebCamLib.dll
+C:\Users\ShoXDK\Desktop\New folder\WebCamLib\obj\Debug\WebCamLib.pdb
